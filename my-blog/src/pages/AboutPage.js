@@ -12,7 +12,7 @@ const AboutPage = () => {
     The front end is developed using React. Nodejs, Expressjs, Postman & Firebase
     is used for backend, APIs and user authentication. Database used is MongoDB..
     Dummy blogs are added for testing purposes. More articles can be added by making changes
-    in the code. Get the code here: <a href="https://github.com/dhruvv173/Full-Stack-Blog-Site">Link</a>
+    in the code. Get the code here: <a href="https://github.com/dhruvv173/Blogs">Link</a>
     </p>
     <p>
         Connect with me here: <br/>
