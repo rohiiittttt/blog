@@ -1,4 +1,3 @@
-This blog site is created using MERN Stack, Firebase Auth and Postman!
 
 Screenshots
 ![image](https://user-images.githubusercontent.com/79097544/227864739-13835f2f-be3f-46d3-aa2d-b63465bdbed7.png)
